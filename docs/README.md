@@ -1,7 +1,5 @@
 ---
 home: true
-heroImage: /logo.png
-heroText: 欢迎来到 baicaizhale 的文档
 tagline: 这里是我的知识库，记录了我的学习笔记、项目经验和一些有趣的内容。
 actions:
   - text: 快速开始 →
