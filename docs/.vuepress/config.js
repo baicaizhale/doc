@@ -6,7 +6,7 @@ export default defineUserConfig({
   theme: hopeTheme({
     // 主题配置
     logo: "/logo.png", // 网站 Logo
-    repo: "https://github.com/baicaizhale/doc", // GitHub 仓库链接
+    repo: "https://github.com/baicaizhale/doc/master", // GitHub 仓库链接
     navbar: [
       { text: "首页", link: "/" },
       { text: "指南", link: "/guide/" },
