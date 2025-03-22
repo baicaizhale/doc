@@ -15,5 +15,5 @@ features:
     details: 分享我的技术学习笔记和项目经验，涵盖前端、后端、DevOps 等领域。
   - title: 持续更新
     details: 文档会持续更新，记录我的成长和进步。
-footer: MIT Licensed | Copyright © 2025 baicaizhale
+footer: Copyright © 2025 baicaizhale
 ---
