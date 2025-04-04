@@ -3,7 +3,7 @@
 <ul>
 <li>Email: 2651557041@qq.com</li>
 <li>QQ Group: <a href="https://qm.qq.com/q/XOeVs5C28E" target="_blank" rel="noopener noreferrer">点击链接加入群聊【baicaizhaleの妙妙屋】</a></li>
-<li>GitHub: <a href="https://github.com/baicaizhale" target="_blank" rel="noopener noreferrer">baicaizhale</a></li>
+<li>GitHub: <a href="https://github.com/baicaizhale" target="_blank" rel="noopener noreferrer">Yan Cai</a></li>
 <li>Bilibili: <a href="https://space.bilibili.com/327575856" target="_blank" rel="noopener noreferrer">baicaizhale</a></li>
 </ul>
 </div></template>
