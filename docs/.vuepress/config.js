@@ -13,12 +13,12 @@ export default defineUserConfig({
       { text: "关于", link: "/about/" },
     ],
     sidebar: {
-      "/guide/": [
-        "",
-        "getting-started",
-        "configuration",
-        "deploy",
-      ],
+//      "/guide/": [
+//        "",
+//        "getting-started",
+//        "configuration",
+//        "deploy",
+//      ],
     },
   }),
   bundler: viteBundler(),
