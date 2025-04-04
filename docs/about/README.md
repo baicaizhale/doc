@@ -4,5 +4,5 @@
 
 - Email: 2651557041@qq.com
 - QQ Group: [点击链接加入群聊【baicaizhaleの妙妙屋】](https://qm.qq.com/q/XOeVs5C28E)
-- GitHub: [baicaizhale](https://github.com/baicaizhale)
+- GitHub: [Yan Cai](https://github.com/baicaizhale)
 - Bilibili: [baicaizhale](https://space.bilibili.com/327575856)

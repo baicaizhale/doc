@@ -8,7 +8,7 @@ export default defineUserConfig({
     logo: "/logo.ico", // 网站 Logo
     repo: "https://github.com/baicaizhale/doc", // GitHub 仓库链接
     navbar: [
-      { text: "首页", link: "/" },
+//      { text: "首页", link: "/" },
       { text: "指南", link: "/guide/" },
       { text: "关于", link: "/about/" },
     ],
