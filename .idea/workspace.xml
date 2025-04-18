@@ -4,7 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="18e77d19-3b32-4612-96fe-d87a86b06e04" name="更改" comment="Update configuration files for improved Git integration and modify navbar in config.js">
+    <list default="true" id="18e77d19-3b32-4612-96fe-d87a86b06e04" name="更改" comment="Delect all files">
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -12,7 +13,11 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
   <component name="Git.Settings">
+    <option name="PREVIEW_PUSH_PROTECTED_ONLY" value="true" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="ROOT_SYNC" value="SYNC" />
   </component>
@@ -25,9 +30,10 @@
   <component name="GithubPullRequestsUISettings">{
   &quot;selectedUrlAndAccountId&quot;: {
     &quot;url&quot;: &quot;https://github.com/baicaizhale/doc.git&quot;,
-    &quot;accountId&quot;: &quot;62728818-3fbe-46bd-a212-d477377899bf&quot;
+    &quot;accountId&quot;: &quot;ef40a73f-52b8-436d-b944-b265537cb799&quot;
   }
 }</component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="/bin/php" />
   <component name="ProblemsViewState">
     <option name="selectedTabId" value="CurrentFile" />
   </component>
@@ -50,18 +56,21 @@
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "/home/baicaizhale/doc",
+    "last_opened_file_path": "/home/baicaizhale/doc/docs",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "vcs.Git",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
     "ts.external.directory.path": "/opt/idea-IU-243.24978.46/plugins/javascript-plugin/jsLanguageServicesImpl/external",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/docs" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/docs" />
     </key>
@@ -85,6 +94,8 @@
       <workItem from="1742574399553" duration="262000" />
       <workItem from="1742599367466" duration="13090000" />
       <workItem from="1743780514690" duration="2759000" />
+      <workItem from="1744978944377" duration="3989000" />
+      <workItem from="1744995509339" duration="105000" />
     </task>
     <task id="LOCAL-00001" summary="11">
       <option name="closed" value="true" />
@@ -246,7 +257,39 @@
       <option name="project" value="LOCAL" />
       <updated>1743782787832</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="Update navbar logo and improve Git integration in configuration files">
+      <option name="closed" value="true" />
+      <created>1744979895748</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1744979895748</updated>
+    </task>
+    <task id="LOCAL-00022" summary="Update README to set home property to false">
+      <option name="closed" value="true" />
+      <created>1744980540343</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1744980540343</updated>
+    </task>
+    <task id="LOCAL-00023" summary="Update README to set home property to false">
+      <option name="closed" value="true" />
+      <created>1744980620495</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1744980620495</updated>
+    </task>
+    <task id="LOCAL-00024" summary="Delect all files">
+      <option name="closed" value="true" />
+      <created>1744992834715</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1744992834715</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -269,18 +312,9 @@
     <MESSAGE value="commit" />
     <MESSAGE value="Update workspace and VCS configuration for improved Git integration" />
     <MESSAGE value="Update configuration files for improved Git integration and modify navbar in config.js" />
-    <option name="LAST_COMMIT_MESSAGE" value="Update configuration files for improved Git integration and modify navbar in config.js" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="javascript">
-          <url>file://$PROJECT_DIR$/docs/.vuepress/config.js</url>
-          <line>20</line>
-          <properties lambdaOrdinal="-1" />
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+    <MESSAGE value="Update navbar logo and improve Git integration in configuration files" />
+    <MESSAGE value="Update README to set home property to false" />
+    <MESSAGE value="Delect all files" />
+    <option name="LAST_COMMIT_MESSAGE" value="Delect all files" />
   </component>
 </project>
