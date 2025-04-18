@@ -6,5 +6,6 @@ docs/.vuepress/dist
 
 .idea
 .idea/workspace.xml
+
 .DS_Store
 *.log
