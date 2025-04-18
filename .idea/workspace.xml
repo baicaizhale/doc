@@ -4,12 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="18e77d19-3b32-4612-96fe-d87a86b06e04" name="更改" comment="Update VCS and workspace configuration for improved Git integration">
-      <change afterPath="$PROJECT_DIR$/docs/.vuepress/public/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/favicon.ico" afterDir="false" />
+    <list default="true" id="18e77d19-3b32-4612-96fe-d87a86b06e04" name="更改" comment="Update site icon and README for improved clarity and personalization">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/.vuepress/config.ts" beforeDir="false" afterPath="$PROJECT_DIR$/docs/.vuepress/config.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -73,6 +70,7 @@
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/docs" />
+      <recent name="$PROJECT_DIR$/docs/.vuepress/public" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/docs" />
@@ -98,7 +96,7 @@
       <workItem from="1742599367466" duration="13090000" />
       <workItem from="1743780514690" duration="2759000" />
       <workItem from="1744978944377" duration="3989000" />
-      <workItem from="1744995509339" duration="3271000" />
+      <workItem from="1744995509339" duration="3923000" />
     </task>
     <task id="LOCAL-00001" summary="11">
       <option name="closed" value="true" />
@@ -308,7 +306,15 @@
       <option name="project" value="LOCAL" />
       <updated>1744996406309</updated>
     </task>
-    <option name="localTasksCounter" value="27" />
+    <task id="LOCAL-00027" summary="Update site icon and README for improved clarity and personalization">
+      <option name="closed" value="true" />
+      <created>1745014907240</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1745014907245</updated>
+    </task>
+    <option name="localTasksCounter" value="28" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -335,6 +341,7 @@
     <MESSAGE value="Update README to set home property to false" />
     <MESSAGE value="Delect all files" />
     <MESSAGE value="Update VCS and workspace configuration for improved Git integration" />
-    <option name="LAST_COMMIT_MESSAGE" value="Update VCS and workspace configuration for improved Git integration" />
+    <MESSAGE value="Update site icon and README for improved clarity and personalization" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update site icon and README for improved clarity and personalization" />
   </component>
 </project>
