@@ -5,7 +5,7 @@ import { viteBundler } from "@vuepress/bundler-vite";
 export default defineUserConfig({
   theme: hopeTheme({
     // 主题配置
-    logo: "/logo.ico", // 网站 Logo
+    logo: "/favicon.ico", // 网站 Logo
     repo: "https://github.com/baicaizhale/doc", // GitHub 仓库链接
     navbar: [
 //      { text: "首页", link: "/" },
