@@ -6,7 +6,7 @@ import { notes } from './notes'
  * @see https://theme-plume.vuejs.press/config/basic/
  */
 export default defineThemeConfig({
-  logo: 'https://i.miji.bid/2025/04/19/fe60abc468232a0b42d27bf5ec85831c.png',
+  logo: 'https://theme-plume.vuejs.press/plume.png',
 
   appearance: true,  // 配置 深色模式
 
@@ -38,8 +38,8 @@ export default defineThemeConfig({
    */
   profile: {
     avatar: 'https://i.miji.bid/2025/04/19/fe60abc468232a0b42d27bf5ec85831c.png',
-    name: 'Docs',
-    description: '辞舟咽雪的文档库',
+    name: '辞舟咽雪的文库',
+    description: 'Cizhouyanxue\'s Document Library',
     // circle: true,
     // location: '',
     // organization: '',
