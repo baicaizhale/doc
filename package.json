@@ -6,7 +6,7 @@
   "author": "Yan Cai <2651557041@qq.com>",
   "license": "MIT",
   "engines": {
-    "node": "^18.19.0 || ^20.6.0 || >=22.0.0"
+    "node": ">=18.19.0"
   },
   "scripts": {
     "docs:dev": "vuepress dev docs",
