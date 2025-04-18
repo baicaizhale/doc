@@ -10,7 +10,7 @@ export default defineUserConfig({
 
   head: [
     // 配置站点图标
-    ['link', { rel: 'icon', type: 'image/png', href: 'https://mjj.today/i/9lECaJ' }],
+    ['link', { rel: 'icon', type: 'image/png', href: 'https://i.miji.bid/2025/04/19/fe690ebc3d62a1c266b23faed341d6b2.jpeg' }],
   ],
 
   bundler: viteBundler(),
