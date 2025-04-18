@@ -1,5 +1,5 @@
 ---
-home: true
+home: false
 tagline: 这里是我的知识库，记录了我的学习笔记、项目经验和一些有趣的内容。
 actions:
   - text: 快速开始 →
