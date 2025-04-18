@@ -8,8 +8,8 @@ config:
     background: tint-plate
     hero:
       name: 辞舟咽雪的文档库
-      tagline: VuePress Next Theme
-      text: 一个简约的，功能丰富的 vuepress 文档&博客 主题
+      tagline: Cizhouyanxue's Document Library
+      text: 一个简约的文档库
       actions:
         -
           theme: brand
