@@ -2,6 +2,7 @@
 title: 使用LittleSkin进入CaiCraft教程
 permalink: /help/littleskin/
 ---
+# 使用LittleSkin进入CaiCraft教程
 
 ## 一、注册LittleSkin账号
 1. **访问LittleSkin官网**：打开浏览器，输入[LittleSkin官网地址](https://littleskin.cn/)，进入首页。
