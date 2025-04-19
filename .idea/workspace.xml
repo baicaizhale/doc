@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="18e77d19-3b32-4612-96fe-d87a86b06e04" name="更改" comment="Update blog configuration and workspace settings for improved clarity and consistency" />
+    <list default="true" id="18e77d19-3b32-4612-96fe-d87a86b06e04" name="更改" comment="Rename README.md to LittleSkin.md for improved clarity" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -64,12 +64,18 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
+  <component name="Push.Settings">
+    <force-push-targets>
+      <force-push-target remote-path="origin" branch="main" />
+    </force-push-targets>
+  </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/docs" />
       <recent name="$PROJECT_DIR$/docs/.vuepress/public" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/docs/notes/help" />
       <recent name="$PROJECT_DIR$/docs" />
     </key>
   </component>
@@ -391,7 +397,31 @@
       <option name="project" value="LOCAL" />
       <updated>1745018337421</updated>
     </task>
-    <option name="localTasksCounter" value="38" />
+    <task id="LOCAL-00038" summary="Revert &quot;Rename README.md to 使用LittleSkin进入CaiCraft教程.md for better clarity and localization&quot;&#10;&#10;This reverts commit ae74b58c">
+      <option name="closed" value="true" />
+      <created>1745062613315</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1745062613315</updated>
+    </task>
+    <task id="LOCAL-00039" summary="Rename README.md to LittleSkin.md for improved clarity">
+      <option name="closed" value="true" />
+      <created>1745062642209</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1745062642209</updated>
+    </task>
+    <task id="LOCAL-00040" summary="Rename README.md to LittleSkin.md for improved clarity">
+      <option name="closed" value="true" />
+      <created>1745063368133</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1745063368133</updated>
+    </task>
+    <option name="localTasksCounter" value="41" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -425,7 +455,9 @@
     <MESSAGE value="Update site icon and workspace configuration for improved branding and clarity" />
     <MESSAGE value="Update site icon and logo for improved branding and consistency" />
     <MESSAGE value="Update blog configuration and workspace settings for improved clarity and consistency" />
-    <option name="LAST_COMMIT_MESSAGE" value="Update blog configuration and workspace settings for improved clarity and consistency" />
+    <MESSAGE value="Revert &quot;Rename README.md to 使用LittleSkin进入CaiCraft教程.md for better clarity and localization&quot;&#10;&#10;This reverts commit ae74b58c" />
+    <MESSAGE value="Rename README.md to LittleSkin.md for improved clarity" />
+    <option name="LAST_COMMIT_MESSAGE" value="Rename README.md to LittleSkin.md for improved clarity" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -449,5 +481,9 @@
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>
