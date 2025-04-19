@@ -5,8 +5,8 @@ import { plumeTheme } from 'vuepress-theme-plume'
 export default defineUserConfig({
   base: '/',
   lang: 'zh-CN',
-  title: 'Docs',
-  description: '辞舟咽雪的文档库',
+  title: '辞舟咽雪的文档库',
+  description: '一个简约的文档库',
 
   head: [
     // 配置站点图标

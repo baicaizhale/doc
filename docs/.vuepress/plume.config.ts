@@ -38,7 +38,7 @@ export default defineThemeConfig({
    */
   profile: {
     avatar: 'https://i.miji.bid/2025/04/19/fe60abc468232a0b42d27bf5ec85831c.png',
-    name: '辞舟咽雪的文库',
+    name: '辞舟咽雪的文档库',
     description: 'Cizhouyanxue\'s Document Library',
     // circle: true,
     // location: '',
