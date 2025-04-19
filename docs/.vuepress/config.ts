@@ -145,6 +145,14 @@ export default defineUserConfig({
      * 评论 comments
      * @see https://theme-plume.vuejs.press/guide/features/comments/
      */
+    comment: {
+      provider: 'Giscus', // "Artalk“ | "Giscus" | "Twikoo" | "Waline"
+      comment: true,
+      repo: 'baicaizhale/giscus',
+      repoId: 'R_kgDOOcAMCg',
+      category: 'Announcements',
+      categoryId: 'DIC_kwDOOcAMCs4CpPhZ',
+    },
     // comment: {
     //   provider: '', // "Artalk" | "Giscus" | "Twikoo" | "Waline"
     //   comment: true,

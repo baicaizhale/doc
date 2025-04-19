@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="18e77d19-3b32-4612-96fe-d87a86b06e04" name="更改" comment="Update blog configuration and workspace settings for improved clarity and consistency">
-      <change afterPath="$PROJECT_DIR$/docs/notes/demo/test.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/.vuepress/config.ts" beforeDir="false" afterPath="$PROJECT_DIR$/docs/.vuepress/config.ts" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -95,7 +96,7 @@
       <workItem from="1742599367466" duration="13090000" />
       <workItem from="1743780514690" duration="2759000" />
       <workItem from="1744978944377" duration="3989000" />
-      <workItem from="1744995509339" duration="6633000" />
+      <workItem from="1744995509339" duration="7706000" />
     </task>
     <task id="LOCAL-00001" summary="11">
       <option name="closed" value="true" />
@@ -385,7 +386,15 @@
       <option name="project" value="LOCAL" />
       <updated>1745018132380</updated>
     </task>
-    <option name="localTasksCounter" value="37" />
+    <task id="LOCAL-00037" summary="Update blog configuration and workspace settings for improved clarity and consistency">
+      <option name="closed" value="true" />
+      <created>1745018337421</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1745018337421</updated>
+    </task>
+    <option name="localTasksCounter" value="38" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -420,5 +429,22 @@
     <MESSAGE value="Update site icon and logo for improved branding and consistency" />
     <MESSAGE value="Update blog configuration and workspace settings for improved clarity and consistency" />
     <option name="LAST_COMMIT_MESSAGE" value="Update blog configuration and workspace settings for improved clarity and consistency" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/docs/.vuepress/navbar.ts</url>
+          <line>5</line>
+          <properties lambdaOrdinal="-1" />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/docs/.vuepress/config.ts</url>
+          <properties lambdaOrdinal="-1" />
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
