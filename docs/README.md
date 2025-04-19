@@ -13,8 +13,8 @@ config:
       actions:
         -
           theme: brand
-          text: 博客
-          link: /blog/
+          text: Start →
+          link: /notes/
         -
           theme: alt
           text: 我的 Github 主页 →
