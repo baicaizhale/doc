@@ -11,3 +11,9 @@ export const notes = defineNotesConfig({
   link: '/',
   notes: [demoNote],
 })
+
+const helpNote = defineNoteConfig({
+  dir: 'help',
+  link: '/help',
+  sidebar: 'auto',
+})
