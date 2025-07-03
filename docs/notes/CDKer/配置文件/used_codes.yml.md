@@ -1,3 +1,8 @@
+---
+title: used_codes.yml
+createTime: 2025/07/03 12:45:29
+permalink: /notes/CDKer/配置文件/used_codes.yml/
+---
 ### `used_codes.yml`
 
 `used_codes.yml` 文件是 CDKer 插件内部用于**追踪和记录玩家一次性礼品码使用情况**的专用数据文件。此文件的主要目的是确保 `single` (一次性) 类型的礼品码不会被同一个玩家重复兑换。

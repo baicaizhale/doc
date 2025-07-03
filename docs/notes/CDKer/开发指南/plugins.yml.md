@@ -1,3 +1,8 @@
+---
+title: plugins.yml
+createTime: 2025/07/03 12:54:37
+permalink: /notes/CDKer/开发指南/plugins.yml/
+---
 ### `plugin.yml`
 
 `plugin.yml` 是 Bukkit 插件的**核心元数据文件**，它位于插件 JAR 文件的根目录（在开发时通常位于 `src/main/resources/` 目录下）。这个文件是 Minecraft 服务器识别、加载和管理 CDKer 插件的必要条件。它向服务器提供了插件的基本信息、注册的命令以及相关的权限节点。
