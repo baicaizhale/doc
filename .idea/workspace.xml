@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="18e77d19-3b32-4612-96fe-d87a86b06e04" name="更改" comment="docs(CDKer): 添加插件使用和配置文档&#10;&#10;- 新增 CDKer 插件的安装指南、使用说明和配置文件文档&#10;- 添加了管理员和玩家命令的详细说明&#10;- 介绍了插件的主要特性和权限节点&#10;- 提供了语言配置和开发贡献的指南">
+    <list default="true" id="18e77d19-3b32-4612-96fe-d87a86b06e04" name="更改" comment="Commit">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/.vuepress/config.ts" beforeDir="false" afterPath="$PROJECT_DIR$/docs/.vuepress/config.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/notes/CDKer/config.ts" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,7 +58,7 @@
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "/home/baicaizhale/doc/docs",
+    "last_opened_file_path": "/home/baicaizhale/IdeaProjects/CustomPrefix-release",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -113,6 +114,8 @@
       <workItem from="1751515972353" duration="3716000" />
       <workItem from="1751520387002" duration="14000" />
       <workItem from="1751520927858" duration="718000" />
+      <workItem from="1751532559664" duration="2285000" />
+      <workItem from="1751538574466" duration="445000" />
     </task>
     <task id="LOCAL-00001" summary="11">
       <option name="closed" value="true" />
@@ -458,7 +461,23 @@
       <option name="project" value="LOCAL" />
       <updated>1751519020527</updated>
     </task>
-    <option name="localTasksCounter" value="44" />
+    <task id="LOCAL-00044" summary="Commit">
+      <option name="closed" value="true" />
+      <created>1751532873944</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1751532873944</updated>
+    </task>
+    <task id="LOCAL-00045" summary="Commit">
+      <option name="closed" value="true" />
+      <created>1751534401245</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1751534401245</updated>
+    </task>
+    <option name="localTasksCounter" value="46" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -497,7 +516,8 @@
     <MESSAGE value="Update LittleSkin.md with front matter for improved documentation structure" />
     <MESSAGE value="Add README.md for knowledge center and update LittleSkin.md title" />
     <MESSAGE value="docs(CDKer): 添加插件使用和配置文档&#10;&#10;- 新增 CDKer 插件的安装指南、使用说明和配置文件文档&#10;- 添加了管理员和玩家命令的详细说明&#10;- 介绍了插件的主要特性和权限节点&#10;- 提供了语言配置和开发贡献的指南" />
-    <option name="LAST_COMMIT_MESSAGE" value="docs(CDKer): 添加插件使用和配置文档&#10;&#10;- 新增 CDKer 插件的安装指南、使用说明和配置文件文档&#10;- 添加了管理员和玩家命令的详细说明&#10;- 介绍了插件的主要特性和权限节点&#10;- 提供了语言配置和开发贡献的指南" />
+    <MESSAGE value="Commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Commit" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -513,7 +533,7 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="javascript">
           <url>file://$PROJECT_DIR$/docs/.vuepress/config.ts</url>
-          <line>62</line>
+          <line>63</line>
           <option name="timeStamp" value="4" />
         </line-breakpoint>
       </breakpoints>
