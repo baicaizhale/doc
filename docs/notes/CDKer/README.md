@@ -10,38 +10,40 @@
 
 * ### **插件概述**
 
-    * [引言与概述](/notes/CDKer/introduction-overview)
+* ### **插件概述**
 
-    * [主要特性](/notes/CDKer/features)
+    * [引言与概述](/notes/CDKer/引言与概述)
+
+    * [主要特性](/notes/CDKer/主要特性)
 
 * ### **安装与配置**
 
-    * [安装指南](/notes/CDKer/installation-guide)
+    * [安装指南](/notes/CDKer/安装指南)
 
-    * [配置文件详解](/notes/CDKer/config-file-details)
+    * [配置文件详解](/notes/CDKer/配置文件详解)
 
-        * [cdk.yml](/notes/CDKer/config-files/cdk-yml)
+        * [cdk.yml](/notes/CDKer/配置文件/cdk.yml)
 
-        * [used_codes.yml](/notes/CDKer/config-files/used-codes-yml)
+        * [used_codes.yml](/notes/CDKer/配置文件/used_codes.yml)
 
-        * [语言配置](/notes/CDKer/config-files/language-config)
+        * [语言配置](/notes/CDKer/配置文件/语言配置)
 
 * ### **命令与权限**
 
-    * [命令使用说明](/notes/CDKer/commands-permissions/command-usage-notes)
+    * [命令使用说明](/notes/CDKer/命令与权限/命令使用说明)
 
-        * [玩家命令](/notes/CDKer/commands-permissions/player-commands)
+        * [玩家命令](/notes/CDKer/命令与权限/玩家命令)
 
-        * [管理员命令](/notes/CDKer/commands-permissions/admin-commands)
+        * [管理员命令](/notes/CDKer/命令与权限/管理员命令)
 
-    * [权限节点](/notes/CDKer/commands-permissions/permission-nodes)
+    * [权限节点](/notes/CDKer/命令与权限/权限节点)
 
 * ### **开发与贡献**
 
-    * [开发指南](/notes/CDKer/development-guide/development-contribution)
+    * [开发指南](/notes/CDKer/开发指南/开发与贡献)
 
-    * [plugins.yml](/notes/CDKer/development-guide/plugins-yml)
+    * [plugins.yml](/notes/CDKer/开发指南/plugins.yml)
 
-    * [许可证](/notes/CDKer/development-guide/license)
+    * [许可证](/notes/CDKer/开发指南/许可证)
 
 感谢您的阅读，希望 CDKer 插件能为您的 Minecraft 服务器带来更好的体验！

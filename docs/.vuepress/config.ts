@@ -77,6 +77,7 @@ export default defineUserConfig({
         // 使用标准的 VuePress sidebar 配置方式
         sidebar: {
             '/notes/CDKer/': [ // 此侧边栏配置将应用于 /notes/CDKer/ 路径下的所有页面
+                { text: 'CDKer主页', link: '/notes/CDKer/' },
                 { text: '引言与概述', link: '/notes/CDKer/引言与概述' }, // 修正路径
                 { text: '主要特性', link: '/notes/CDKer/主要特性' }, // 修正路径
                 { text: '安装指南', link: '/notes/CDKer/安装指南' }, // 修正路径
