@@ -1,15 +1,12 @@
 # 📚 笔记文档
 
 这里是我的个人知识库，整理记录了各种技术学习笔记和工作经验总结。
+---
+## 📂 目录
 
-## 📂 目录结构
+[CDKer](/notes/CDKer/README.md)      - CDK 相关技术笔记
 
-```text
-notes/
-├── CDKer/      - CDK 相关技术笔记
-├── demo/       - 示例代码和演示
-└── help/       - 帮助文档和常见问题
-```
+[Help](/notes/help/README.md)       - 帮助文档和常见问题
 
 ## 🚀 快速开始
 
