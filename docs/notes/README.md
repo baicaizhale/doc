@@ -8,7 +8,7 @@
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 24px; margin: 32px 0;">
 
-  <a href="/notes/CDKer/README.md" style="
+  <a href="/notes/CDKer/" style="
     display: block;
     padding: 32px;
     background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
@@ -24,7 +24,7 @@
     <p style="margin: 0; font-size: 16px; opacity: 0.9;">CDK相关技术笔记和教程，涵盖AWS CDK、Terraform等基础设施即代码的最佳实践</p>
   </a>
 
-  <a href="/notes/help/README.md" style="
+  <a href="/notes/help/" style="
     display: block;
     padding: 32px;
     background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%);
@@ -40,7 +40,7 @@
     <p style="margin: 0; font-size: 16px; opacity: 0.9;">常见问题和使用帮助，提供详细的使用指南和故障排除方案</p>
   </a>
 
-  <a href="/notes/demo/README.md" style="
+  <a href="/notes/demo/" style="
     display: block;
     padding: 32px;
     background: linear-gradient(135deg, #4facfe 0%, #00f2fe 100%);
