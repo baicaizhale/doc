@@ -20,8 +20,8 @@
     text-align: center;
   " onmouseover="this.style.transform='translateY(-4px)'; this.style.boxShadow='0 8px 20px rgba(0,0,0,0.15)'" onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='0 4px 12px rgba(0,0,0,0.1)'">
     <div style="font-size: 48px; margin-bottom: 16px;">🔧</div>
-    <h3 style="margin: 0 0 12px 0; font-size: 24px; font-weight: 600;">CDKer 技术笔记</h3>
-    <p style="margin: 0; font-size: 16px; opacity: 0.9;">CDK相关技术笔记和教程，涵盖AWS CDK、Terraform等基础设施即代码的最佳实践</p>
+    <h3 style="margin: 0 0 12px 0; font-size: 24px; font-weight: 600;">CDKer 插件文档</h3>
+    <p style="margin: 0; font-size: 16px; opacity: 0.9;">运行在SpigotMC上的插件，在高版本上实现礼品码兑换功能</p>
   </a>
 
   <a href="/notes/help/" style="

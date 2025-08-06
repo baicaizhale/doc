@@ -35,7 +35,7 @@ export default defineUserConfig({
          * 博客
          * @see https://theme-plume.vuejs.press/config/basic/#blog
          */
-        blog: false, // 禁用博客
+        blog: true, // 禁用博客
 
         /* 博客文章页面链接前缀 */
         article: '/article/',
