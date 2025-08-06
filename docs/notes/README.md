@@ -8,7 +8,7 @@
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 24px; margin: 32px 0;">
 
-  <a href="/notes/CDKer/README.md" style="
+  <a href="/notes/CDKer/" style="
     display: block;
     padding: 32px;
     background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
