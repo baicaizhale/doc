@@ -8,7 +8,7 @@ config:
     background: tint-plate
     hero:
       name: 辞舟咽雪的文档库
-      tagline: Cizhouyanxue's Document Library
+      tagline: Document Library
       text: 一个简约的文档库
       actions:
         -
