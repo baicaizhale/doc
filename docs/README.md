@@ -9,7 +9,7 @@ config:
     hero:
       name: 辞舟咽雪的文档库
       tagline: Document Library
-      text: 一个简约的文档库
+      text: 由baicaizhale编写的文档和笔记
       actions:
         -
           theme: brand
