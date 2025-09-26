@@ -114,23 +114,6 @@ export default defineUserConfig({
                     ]
                 }
             ],
-            '/notes/LiteMotto/': [
-                { text: 'LiteMotto主页', link: '/notes/LiteMotto/' },
-                { text: '主要特性', link: '/notes/LiteMotto/主要特性.md' },
-                { text: '使用方法', link: '/notes/LiteMotto/使用方法.md' },
-                { text: '安装指南', link: '/notes/LiteMotto/安装指南.md' },
-                { text: '常见问题', link: '/notes/LiteMotto/常见问题.md' },
-                { text: '开发指南', link: '/notes/LiteMotto/开发指南.md' },
-                { text: '特别说明', link: '/notes/LiteMotto/特别说明.md' },
-                {
-                    text: '配置文件',
-                    collapsed: false,
-                    prefix: '/notes/LiteMotto/',
-                    items: [
-                        { text: '配置文件.md', link: '配置文件.md' }
-                    ]
-                }
-            ],
             // 其他页面的侧边栏可以继续添加
         }
     })
