@@ -24,6 +24,22 @@
     <p style="margin: 0; font-size: 16px; opacity: 0.9;">运行在SpigotMC上的插件，在高版本上实现礼品码兑换功能</p>
   </a>
 
+  <a href="/notes/LiteMotto/" style="
+    display: block;
+    padding: 32px;
+    background: linear-gradient(135deg, #43e97b 0%, #38f9d7 100%);
+    color: white;
+    text-decoration: none;
+    border-radius: 12px;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+    transition: all 0.3s ease;
+    text-align: center;
+  " onmouseover="this.style.transform='translateY(-4px)'; this.style.boxShadow='0 8px 20px rgba(0,0,0,0.15)'" onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='0 4px 12px rgba(0,0,0,0.1)'">
+    <div style="font-size: 48px; margin-bottom: 16px;">🧩</div>
+    <h3 style="margin: 0 0 12px 0; font-size: 24px; font-weight: 600;">LiteMotto 插件文档</h3>
+    <p style="margin: 0; font-size: 16px; opacity: 0.9;">Minecraft 每日格言插件，自动生成哲理格言，提升玩家体验</p>
+  </a>
+
   <a href="/notes/help/" style="
     display: block;
     padding: 32px;
