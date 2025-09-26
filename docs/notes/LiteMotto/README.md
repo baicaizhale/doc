@@ -1,3 +1,6 @@
+---
+permalink: /notes/LiteMotto/
+---
 
 # LiteMotto 简介与概述
 
