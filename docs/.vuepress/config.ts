@@ -35,10 +35,7 @@ export default defineUserConfig({
          * 博客
          * @see https://theme-plume.vuejs.press/config/basic/#blog
          */
-        blog: {},
 
-        /* 博客文章页面链接前缀 */
-        article: '/article/',
 
         /**
          * 编译缓存，加快编译速度
@@ -76,41 +73,37 @@ export default defineUserConfig({
 
         // 使用标准的 VuePress sidebar 配置方式
         sidebar: {
-            '/notes/CDKer/': [ // 此侧边栏配置将应用于 /notes/CDKer/ 路径下的所有页面
-                { text: 'CDKer主页', link: '/notes/CDKer/' },
-                { text: '引言与概述', link: '/notes/CDKer/引言与概述' }, // 修正路径
-                { text: '主要特性', link: '/notes/CDKer/主要特性' }, // 修正路径
-                { text: '安装指南', link: '/notes/CDKer/安装指南' }, // 修正路径
-                { text: '配置文件详解', link: '/notes/CDKer/配置文件详解' }, // 修正路径
+
+            '/notes/CDKer/': [
                 {
-                    text: '配置文件',
-                    collapsed: false,
-                    prefix: '/notes/CDKer/配置文件/', // 修正：prefix 指向实际文件夹路径
-                    items: [
-                        { text: 'cdk.yml', link: 'cdk.yml.md' }, // 修正：link 对应文件名，带 .yml
-                        { text: 'used_codes.yml', link: 'used_codes.yml.md' }, // 修正：link 对应文件名，带 .yml
-                        { text: '语言配置', link: '语言配置' } // 修正：link 对应文件名
+                    text: 'CDKer 介绍',
+                    link: '/notes/CDKer/'
+                },
+                {
+                    title: '核心功能',
+                    collapsed: true,
+                    children: [
+                        { text: 'CDKer', link: '/notes/CDKer/CDKer/' },
+                        { text: '插件', link: '/notes/CDKer/plugin/' },
+                        { text: 'CDK', link: '/notes/CDKer/cdk/' }
                     ]
                 },
                 {
-                    text: '命令与权限',
-                    collapsed: false,
-                    prefix: '/notes/CDKer/命令与权限/', // 修正：prefix 指向实际文件夹路径
-                    items: [
-                        { text: '命令使用说明', link: '命令使用说明' }, // 修正：link 对应文件名
-                        { text: '权限节点', link: '权限节点' },
-                        { text: '玩家命令', link: '玩家命令' },
-                        { text: '管理员命令', link: '管理员命令' }
+                    text: '命令相关',
+                    collapsed: true,
+                    children: [
+                        { text: '添加命令执行器', link: '/notes/CDKer/AddCommandExecutor/' },
+                        { text: 'CDK Tab 补全器', link: '/notes/CDKer/CDKTabCompleter/' },
+                        { text: '命令工具', link: '/notes/CDKer/CommandUtils/' }
                     ]
                 },
                 {
-                    text: '开发指南',
-                    collapsed: false,
-                    prefix: '/notes/CDKer/开发指南/', // 修正：prefix 指向实际文件夹路径
-                    items: [
-                        { text: 'plugins.yml', link: 'plugins.yml' }, // 修正：link 对应文件名，带 .yml
-                        { text: '开发与贡献', link: '开发与贡献' }, // 修正：link 对应文件名
-                        { text: '许可证', link: '许可证' } // 修正：link 对应文件名
+                    text: '配置与语言',
+                    collapsed: true,
+                    children: [
+                        { text: '配置', link: '/notes/CDKer/config/' },
+                        { text: '中文语言包', link: '/notes/CDKer/lang_cn/' },
+                        { text: '英文语言包', link: '/notes/CDKer/lang_en/' }
                     ]
                 }
             ],

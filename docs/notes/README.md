@@ -56,21 +56,6 @@
     <p style="margin: 0; font-size: 16px; opacity: 0.9;">常见问题和使用帮助，提供详细的使用指南和故障排除方案</p>
   </a>
 
-  <a href="/notes/demo/" style="
-    display: block;
-    padding: 32px;
-    background: linear-gradient(135deg, #4facfe 0%, #00f2fe 100%);
-    color: white;
-    text-decoration: none;
-    border-radius: 12px;
-    box-shadow: 0 4px 12px rgba(0,0,0,0.1);
-    transition: all 0.3s ease;
-    text-align: center;
-  " onmouseover="this.style.transform='translateY(-4px)'; this.style.boxShadow='0 8px 20px rgba(0,0,0,0.15)'" onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='0 4px 12px rgba(0,0,0,0.1)'">
-    <div style="font-size: 48px; margin-bottom: 16px;">🎯</div>
-    <h3 style="margin: 0 0 12px 0; font-size: 24px; font-weight: 600;">示例文档</h3>
-    <p style="margin: 0; font-size: 16px; opacity: 0.9;">查看Markdown和组件示例，展示各种文档格式和交互组件的使用方法</p>
-  </a>
 
 </div>
 
