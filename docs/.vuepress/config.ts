@@ -80,39 +80,39 @@ export default defineUserConfig({
                     link: '/notes/CDKer/'
                 },
                 {
-                    title: '核心功能',
-                    collapsed: true,
+                    text: '核心功能',
+                    collapsed: false,
                     children: [
-                        { text: 'CDKer', link: '/notes/CDKer/CDKer/' },
-                        { text: '插件', link: '/notes/CDKer/plugin/' },
-                        { text: 'CDK', link: '/notes/CDKer/cdk/' }
+                        { text: 'CDKer', link: '/notes/CDKer/CDKer.md' },
+                        { text: '插件', link: '/notes/CDKer/plugin.md' },
+                        { text: 'CDK', link: '/notes/CDKer/cdk.md' }
                     ]
                 },
                 {
                     text: '命令相关',
-                    collapsed: true,
+                    collapsed: false,
                     children: [
-                        { text: '添加命令执行器', link: '/notes/CDKer/AddCommandExecutor/' },
-                        { text: 'CDK Tab 补全器', link: '/notes/CDKer/CDKTabCompleter/' },
-                        { text: '命令工具', link: '/notes/CDKer/CommandUtils/' }
+                        { text: '添加命令执行器', link: '/notes/CDKer/AddCommandExecutor.md' },
+                        { text: 'CDK Tab 补全器', link: '/notes/CDKer/CDKTabCompleter.md' },
+                        { text: '命令工具', link: '/notes/CDKer/CommandUtils.md' }
                     ]
                 },
                 {
                     text: '配置与语言',
-                    collapsed: true,
+                    collapsed: false,
                     children: [
-                        { text: '配置', link: '/notes/CDKer/config/' },
-                        { text: '中文语言包', link: '/notes/CDKer/lang_cn/' },
-                        { text: '英文语言包', link: '/notes/CDKer/lang_en/' }
+                        { text: '配置', link: '/notes/CDKer/config.md' },
+                        { text: '中文语言包', link: '/notes/CDKer/lang_cn.md' },
+                        { text: '英文语言包', link: '/notes/CDKer/lang_en.md' }
                     ]
                 }
             ],
             '/notes/LiteMotto/': [
-                { text: 'LiteMotto主页', link: '/notes/LiteMotto/' },
-                { text: '主要特性', link: '/notes/LiteMotto/主要特性' },
-                { text: '使用方法', link: '/notes/LiteMotto/使用方法' },
-                { text: '安装指南', link: '/notes/LiteMotto/安装指南' },
-                { text: '配置文件', link: '/notes/LiteMotto/配置文件' }
+                { text: 'LiteMotto主页', link: '/notes/LiteMotto/README.md' },
+                { text: '主要特性', link: '/notes/LiteMotto/主要特性.md' },
+                { text: '使用方法', link: '/notes/LiteMotto/使用方法.md' },
+                { text: '安装指南', link: '/notes/LiteMotto/安装指南.md' },
+                { text: '配置文件', link: '/notes/LiteMotto/配置文件.md' }
             ]
             // 其他页面的侧边栏可以继续添加
         }
