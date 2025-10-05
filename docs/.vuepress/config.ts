@@ -82,7 +82,7 @@ export default defineUserConfig({
                 {
                     text: '核心功能',
                     collapsed: false,
-                    children: [
+                    items: [
                         { text: 'CDKer', link: '/notes/CDKer/CDKer.md' },
                         { text: '插件', link: '/notes/CDKer/plugin.md' },
                         { text: 'CDK', link: '/notes/CDKer/cdk.md' }
@@ -91,7 +91,7 @@ export default defineUserConfig({
                 {
                     text: '命令相关',
                     collapsed: false,
-                    children: [
+                    items: [
                         { text: '添加命令执行器', link: '/notes/CDKer/AddCommandExecutor.md' },
                         { text: 'CDK Tab 补全器', link: '/notes/CDKer/CDKTabCompleter.md' },
                         { text: '命令工具', link: '/notes/CDKer/CommandUtils.md' }
@@ -100,7 +100,7 @@ export default defineUserConfig({
                 {
                     text: '配置与语言',
                     collapsed: false,
-                    children: [
+                    items: [
                         { text: '配置', link: '/notes/CDKer/config.md' },
                         { text: '中文语言包', link: '/notes/CDKer/lang_cn.md' },
                         { text: '英文语言包', link: '/notes/CDKer/lang_en.md' }

@@ -18,6 +18,7 @@
   },
   "include": [
     "docs/**/*.ts",
+    "docs/.vuepress/**/*.ts",
     "docs/**/*.vue",
     "docs/**/*.js",
     "docs/**/*.jsx",
