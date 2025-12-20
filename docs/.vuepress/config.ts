@@ -20,6 +20,10 @@ export default defineUserConfig({
         /* 添加您的部署域名, 有助于 SEO, 生成 sitemap */
         // hostname: 'https://your_site_url',
 
+        autoFrontmatter: {
+            permalink: false, // 禁用自动生成永久链接
+        },
+
         /* 文档仓库配置，用于 editLink */
         // docsRepo: '',
         // docsDir: 'docs',
@@ -108,11 +112,52 @@ export default defineUserConfig({
                 }
             ],
             '/notes/LiteMotto/': [
-                { text: 'LiteMotto主页', link: '/notes/LiteMotto/README.md' },
-                { text: '主要特性', link: '/notes/LiteMotto/主要特性.md' },
-                { text: '使用方法', link: '/notes/LiteMotto/使用方法.md' },
-                { text: '安装指南', link: '/notes/LiteMotto/安装指南.md' },
-                { text: '配置文件', link: '/notes/LiteMotto/配置文件.md' }
+                {
+                    text: 'LiteMotto 介绍',
+                    link: '/notes/LiteMotto/README.md'
+                },
+                {
+                    text: '快速开始',
+                    collapsed: false,
+                    items: [
+                        { text: '安装指南', link: '/notes/LiteMotto/getting-started/installation.md' },
+                        { text: '快速上手', link: '/notes/LiteMotto/getting-started/quick-start.md' }
+                    ]
+                },
+                {
+                    text: '配置指南',
+                    collapsed: false,
+                    items: [
+                        { text: '基础配置', link: '/notes/LiteMotto/configuration/basic.md' },
+                        { text: '进阶配置', link: '/notes/LiteMotto/configuration/advanced.md' },
+                        { text: '提供商配置', link: '/notes/LiteMotto/configuration/providers.md' }
+                    ]
+                },
+                {
+                    text: '核心特性',
+                    collapsed: false,
+                    items: [
+                        { text: '格言生成', link: '/notes/LiteMotto/features/motto-generation.md' },
+                        { text: '调试系统', link: '/notes/LiteMotto/features/debug-system.md' },
+                        { text: '指标统计', link: '/notes/LiteMotto/features/metrics.md' }
+                    ]
+                },
+                {
+                    text: '参考手册',
+                    collapsed: false,
+                    items: [
+                        { text: '命令', link: '/notes/LiteMotto/reference/commands.md' },
+                        { text: '权限', link: '/notes/LiteMotto/reference/permissions.md' },
+                        { text: 'API', link: '/notes/LiteMotto/reference/api.md' }
+                    ]
+                },
+                {
+                    text: '常见问题',
+                    collapsed: false,
+                    items: [
+                        { text: '故障排除', link: '/notes/LiteMotto/faq/troubleshooting.md' }
+                    ]
+                }
             ]
             // 其他页面的侧边栏可以继续添加
         }

@@ -1,34 +1,27 @@
----
-permalink: /notes/LiteMotto/
----
+# LiteMotto 官方文档
 
-# LiteMotto 简介与概述
+欢迎查阅 **LiteMotto** 的详细使用手册。本插件旨在通过 AI 技术，为您的 Minecraft 服务器注入灵魂。
 
-LiteMotto 是一款专为 Minecraft Spigot 服务器设计的插件，旨在为玩家提供每日格言，增强游戏体验。该插件利用 Cloudflare AI 技术，自动生成并发送富有哲理的格言，为玩家的每一次登录增添一份惊喜和启发。
+## 📖 文档导航
 
-### 核心功能
+### 🚀 入门指南
+- [插件安装](getting-started/installation.md) - 如何在不同环境下安装 LiteMotto
+- [快速上手](getting-started/quick-start.md) - 3分钟完成首次格言生成
 
-- **AI 生成格言**：通过 Cloudflare AI，自动生成每日格言，内容多样且富有哲理。
-- **自定义前缀**：支持自定义格言消息的前缀，允许使用 Minecraft 颜色代码，使消息更加生动。
-- **动态提示词**：通过配置文件中的 `prompt` 字段，可以调整 AI 生成格言的风格和内容，满足不同服务器的需求。
-- **避免重复**：插件会自动记录最近生成的格言，避免重复发送相同的内容，保持内容的新鲜感。
-- **异步处理**：数据获取采用异步方式，确保服务器性能不受影响，玩家体验更加流畅。
-- **多模型支持**：自动兼容 Cloudflare 多种 AI 模型的返回格式，无需手动切换，简化管理流程。
+### ⚙️ 配置手册
+- [基础配置](configuration/basic.md) - 前缀、提示词与核心设置
+- [AI 提供商详解](configuration/providers.md) - Cloudflare 与 SiliconFlow 的配置差异
+- [进阶功能设置](configuration/advanced.md) - 自动重载与更新检查
 
-### 支持的 Minecraft 版本
+### ✨ 功能特性
+- [格言生成机制](features/motto-generation.md) - AI 是如何工作的？
+- [调试系统](features/debug-system.md) - 强大的内置排错工具
+- [统计与监控](features/metrics.md) - 了解插件运行状况
 
-LiteMotto 插件兼容以下 Minecraft Spigot 版本：
-- 1.18
-- 1.19
-- 1.20
-- 1.21
+### 📚 参考资料
+- [命令全表](reference/commands.md) - 所有可用指令及用法
+- [权限节点](reference/permissions.md) - 精细化权限控制
+- [开发者 API](reference/api.md) - 在你的插件中调用 LiteMotto
 
-无论是小型社区服务器还是大型公服，LiteMotto 都能完美融入，为玩家带来每日的智慧启迪。
-
-### 适用场景
-
-- **社区服务器**：为玩家提供每日格言，增强社区的凝聚力和互动性。
-- **教育服务器**：通过格言传递积极向上的价值观，促进玩家的个人成长。
-- **娱乐服务器**：为玩家的娱乐体验增添一份特别的惊喜。
-
-LiteMotto 是一个简单而强大的插件，旨在为你的 Minecraft 服务器带来更多的乐趣和启发。通过简单的配置和部署，你可以轻松地将这个功能丰富的插件集成到你的服务器中，为你的玩家提供独特的游戏体验。
+### ❓ 常见问题
+- [故障排查指南](faq/troubleshooting.md) - 解决常见的网络与配置问题
